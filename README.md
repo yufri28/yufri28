@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yufridon C. Luttu</h1>
-<h3 align="center">Junior Software Engineer from Kupang, East Nusa Tenggara, Indonesia</h3>
+<h3 align="center">Software Engineer from Kupang, East Nusa Tenggara, Indonesia</h3>
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yufri28&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
